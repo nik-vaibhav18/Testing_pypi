@@ -8,10 +8,10 @@ USER_NAME = "nik-vaibhav18"
 
 setuptools.setup(
     name=f"{PROJECT_NAME}-{USER_NAME}",
-    version="0.0.1",
+    version="0.0.2",
     author=USER_NAME,
     author_email="nik.vaibhav18@gmail.com",
-    description="Deep Learning Perceptron",
+    description="updated readme",
     long_description=long_description,
     long_description_content_type="text/markdown",
     url=f"https://github.com/{USER_NAME}/{PROJECT_NAME}",
