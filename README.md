@@ -2,7 +2,7 @@
 Testing
 
 ## Created custom Deep Learning package and deployed on PYPI Python Community for testing purpose only
-[pypi.org link](https://pypi.org/project/Testing-pypi-nik-vaibhav18/0.0.1/)
+[pypi.org link for downloading custom built deep learning package created](https://pypi.org/project/Testing-pypi-nik-vaibhav18/0.0.1/)
 
 ## How to use this
 
