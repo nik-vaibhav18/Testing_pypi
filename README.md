@@ -1,7 +1,12 @@
 # Testing_pypi
 Testing
 
+## Created custom Deep Learning package and deployed on PYPI Python Community for testing purpose only
+[pypi.org link](https://pypi.org/project/Testing-pypi-nik-vaibhav18/0.0.1/)
+
 ## How to use this
+
+Install the package by visiting the upper link and use the package following the instruction given below 
 
 ```python
 from oneNeuron.perceptron import Perceptron
@@ -15,5 +20,3 @@ model.fit(X, y)
 
 [Github docs](https://docs.github.com/en/actions/automating-builds-and-tests/building-and-testing-python#publishing-to-package-registries)
 
-## created pyhton package for testing purpose only
-[pypi.org link](https://pypi.org/project/Testing-pypi-nik-vaibhav18/0.0.1/)
